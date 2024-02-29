@@ -1,4 +1,6 @@
-# MP3 Naudio Chatgpt
+# MP3 Player (Bass Library)
+
+Simple Player using bass.dll
 
 ![](https://i.imgur.com/GHUYUcL.jpg)
 
